@@ -1,0 +1,26 @@
+{
+  "name": "ecommerce-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express",
+    "JWT",
+    "MongoDB"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayursavani/ecommerce-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayursavani/ecommerce-nodejs/issues"
+  },
+  "homepage": "https://github.com/mayursavani/ecommerce-nodejs#readme"
+}
