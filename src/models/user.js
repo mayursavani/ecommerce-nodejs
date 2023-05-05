@@ -24,10 +24,6 @@ const userSchema = new schema({
     type: String,
     maxlength: 512,
   },
-  role: {
-    type: schema.Types.ObjectId,
-    ref: "Role",
-  },
   status: {
     type: false,
     default: true,
